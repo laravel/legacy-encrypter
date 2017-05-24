@@ -17,8 +17,8 @@
         "php": ">=5.5.9",
         "ext-mbstring": "*",
         "ext-openssl": "*",
-        "illuminate/contracts": "5.3.*",
-        "illuminate/support": "5.3.*",
+        "illuminate/contracts": ">=5.3",
+        "illuminate/support": ">=5.3",
         "paragonie/random_compat": "~1.4|~2.0"
     },
     "autoload": {
